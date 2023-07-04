@@ -182,3 +182,14 @@ michaelshadell2@gmail.com
 
 Apr 23, 2023 13:05:53
 https://a1office.co/solutions/shared/view?fileKey=NOTICE-1a56d8ad6669d7889be406b103ebfbaa.txt
+
+https://ud-sandbox.com/
+https://api.ud-sandbox.com/https://ud-sandbox.com/https://api.ud-sandbox.com/
+const {default: Resolution} = require('@unstoppabledomains/resolution');
+// obtain a key by following this document https://docs.unstoppabledomains.com/domain-distribution-and-management/quickstart/retrieve-an-api-key/#api-key
+const resolution = new Resolution({ apiKey: "<api_key>" });
+let namehash = resolution.namehash("brad.crypto", "UNS");resolver-keys.jsonhttps://docs.unstoppabledomains.com/domain-distribution-and-management/quickstart/retrieve-an-api-key/#api-key
+import com.unstoppabledomains.resolution.Resolution;
+// obtain a key by following this document https://docs.unstoppabledomains.com/domain-distribution-and-management/quickstart/retrieve-an-api-key/#api-key. See https://github.com/unstoppabledomains/resolution-java for more initialization options
+DomainResolution resolution = new Resolution("<api_key>");
+String namehash = resolution.getNamehash("brad.crypto", "UNS");https://docs.unstoppabledomains.com/domain-distribution-and-management/quickstart/retrieve-an-api-key/#api-key.https://github.com/unstoppabledomains/resolution-java
